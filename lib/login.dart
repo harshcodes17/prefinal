@@ -21,12 +21,12 @@ class _MyLoginState extends State<MyLogin> {
             SingleChildScrollView(
               child: Container(
                 child: Padding(
-                  padding: const EdgeInsets.all(80.0),
+                  padding: const EdgeInsets.all(70.0),
                   child: Text(
-                    'Welcome\nBoys!',
+                    'Student\nFacilitation!',
                     style: TextStyle(
                         color: Colors.white,
-                        fontSize: 50.0,
+                        fontSize: 40.0,
                         fontFamily: 'Pacifico'),
                   ),
                 ),
